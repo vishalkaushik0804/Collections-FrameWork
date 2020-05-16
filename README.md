@@ -1,8 +1,9 @@
 # Collections-FrameWork
 This repository contains Java Collections Framework classes implementation 's programs.
 Each class methods are given by thier implemententation in an easy way.
-Some of the Classes it includes are :
-1.AbstractCollection
+It also contains a package "ExtraInformation" contains some extra information.
+The Classes of Collection FrameWork it includes are :
+1. AbstractCollection
 2. ArrayDeque
 3. ArrayList
 4. DequeLinkedList
@@ -14,4 +15,3 @@ Some of the Classes it includes are :
 10. TreeMap
 11. TreeSet
 12. Iterator
-Also contains a package "ExtraInformation" contains some extra information.
